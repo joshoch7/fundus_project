@@ -8,7 +8,7 @@ This project demonstrates that a computer can predict the age of a patient based
 
 See this presentation for more information on the project: [Fundus Project Presentation][1]
 
-   [1]: https://docs.google.com/presentation/d/1sn5xXV7q-R6OWsNJNUAgodSwS0ncw-OlwWgpu5xyeCA/edit?usp=sharing
+   [1]: https://docs.google.com/presentation/d/1Hnj2RZEcznN5UIPrL2sFkIVH3UkaeWKnQ7uNfX82ZvI/edit?usp=sharing
 
 #### Results
 
