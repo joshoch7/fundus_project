@@ -17,8 +17,6 @@ See this presentation for more information on the project: [Fundus Project Prese
 
 MAE = mean absolute error
 
-Yongchan's MAE is actually RMSE (root mean squared error).
-
 #### Directory Structure
 * `py_files/`: `.py` files to train, test, and explain the model (instructions below)
 * `scripts/`: Scripts to run the above `.py` files on the Sherlock computing system

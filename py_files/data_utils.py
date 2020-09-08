@@ -39,7 +39,7 @@ def prepare_dataframes():
 
     # Recreate filenames
     # Might have to change this path depending on where you clone the imaging repo:
-    merged["filenames"] = "../../../../../../projects/imaging/fundus/processed/left_eye/" + merged["EID"].astype(str) + "_21015_0_0_resized.png"
+    merged["filenames"] = "../../../../../../[redacted]" + merged["EID"].astype(str) + "_21015_0_0_resized.png" #This file path has been removed to ensure the privacy of Rivas Lab.
     
     # Split into train, val and test. This will automatically filter to population="white_british".
     train = merged[merged["split"] == "train"]
