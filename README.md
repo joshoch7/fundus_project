@@ -16,7 +16,7 @@ See this presentation for more information on the project: [Fundus Project Prese
 <p align="center">
 <img src="./images/README/results.png" width="800" height="320">
 
-MAE = mean absolute error
+MAE = mean absolute error (years)
 
 #### Directory Structure
 * `py_files/`: `.py` files to train, test, and explain the model (instructions below)
